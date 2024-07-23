@@ -1,0 +1,12 @@
+{
+  "name": "sqltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-sqlite index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
